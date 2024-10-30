@@ -1,0 +1,8 @@
+api-> functions that deal with db, parameter c *fiber.ctx
+config -> to get docker parameter from .env
+database -> for db connection
+logger -> to log errs, login, register and crud operations
+middleware -> jwt, auth functions
+models -> to create table that will be used
+router -> to assign endpoints to functions on api
+validator -> to validate e-mail
